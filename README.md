@@ -1,4 +1,5 @@
-### Hi there 👋
+URL:https://www.codewars.com/users/Ibrahim%20F%C9%99t%C9%99liyev/badges/large
+
 
 <!--
 **IbrahimFeteliyev/IbrahimFeteliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

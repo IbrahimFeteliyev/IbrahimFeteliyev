@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-feteliyev-75a95522a/) [![CodeWars]([https://docs.codewars.com/logo.svg](https://camo.githubusercontent.com/4daf80f5cc6dd6a5c1d0f0f95f1b8e1815038df7638591d682fcceafeac5839e/68747470733a2f2f6769742e696f2f4a4d643461))]https://www.codewars.com/users/Ibrahim%20F%C9%99t%C9%99liyev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-feteliyev-75a95522a/)
 
 
 # 💻 Tech Stack:

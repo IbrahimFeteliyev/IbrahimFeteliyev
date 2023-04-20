@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+# 💻 CodeWars Me:
+https://www.codewars.com/users/Ibrahim%20F%C9%99t%C9%99liyev
 ![image](https://user-images.githubusercontent.com/92580050/233315422-f87a473e-2e99-4156-87e3-f47f32d70a1a.png)
 
 

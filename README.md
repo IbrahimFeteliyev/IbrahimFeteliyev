@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+![image](https://user-images.githubusercontent.com/92580050/233315422-f87a473e-2e99-4156-87e3-f47f32d70a1a.png)
 
 
 ## 🌐 Socials:

@@ -1,6 +1,7 @@
 # 💻 CodeWars:
 ![image](https://user-images.githubusercontent.com/92580050/233315422-f87a473e-2e99-4156-87e3-f47f32d70a1a.png)
-![] https://www.codewars.com/users/Ibrahim%20F%C9%99t%C9%99liyev
+
+https://www.codewars.com/users/Ibrahim%20F%C9%99t%C9%99liyev
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-feteliyev-75a95522a/) 
